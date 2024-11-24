@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "alqix",
+			"oem": "Samsung",
+			"device": "Samsung A73 5G",
+			"filename": "RisingOS-6.0-BETA-20241124-VANILLA-COMMUNITY-a73xq-ota-signed.zip",
+			"download": "https://github.com/alqnisot/releases/releases/download/a73xq-20241124/RisingOS-6.0-BETA-20241124-VANILLA-COMMUNITY-a73xq-ota-signed.zip",
+			"timestamp": 1732455736,
+			"md5": "da6b2ef8ad91befd3843d1168d8549c0",
+			"sha256": "7844aa40d1bb5e2d9e1fcb79e207d765183e0cff13806b7c021bf345d386bea9",
+			"size": 1686872039,
+			"version": "6.0-Ascension",
+			"buildtype": "BETA",
+			"forum": "https://xdaforums.com/t/rom-15-0-encryption-unofficial-risingos-6-beta-for-a73-5g.4702772/",
+			"gapps": "https://nikgapps.com/crdroid-official",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://github.com/alqnisot/releases/releases/download/a73xq-20241124/recovery.img",
+			"paypal": "",
+			"telegram": "https://t.me/alqnisot",
+			"dt": "github.com/crdroidandroid/android_device_samsung_a73xq",
+			"common-dt": "https://github.com/crdroidandroid/android_device_samsung_sm7325-common",
+			"kernel": "https://github.com/crdroidandroid/android_kernel_samsung_sm7325"
+		}
+	]
+}
